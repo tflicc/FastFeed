@@ -1,10 +1,8 @@
 # FastFeed
-A Reddit clone with booru-style tagging
 
-# 🗺️ FastFeed Roadmap
+A Reddit clone with hashtags instead of subreddits.
 
-A structured development plan for FastFeed — a booru-inspired Reddit clone built in Angular. This roadmap helps break down the project into manageable, beginner-friendly milestones.
-
+# 🗺️ Roadmap
 ---
 
 ## ✅ Phase 1 – MVP (Frontend-Only)
